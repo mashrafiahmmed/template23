@@ -1,0 +1,106 @@
+.writing{
+	padding: 20px;
+}
+.writing h1 {
+	font-family: "Oswald";
+	text-align: center;
+	font-size: 50px;
+	text-transform: capitalize;
+	color: black;
+	padding: 20px;
+}
+.writing p {
+	text-align: center;
+	color: black;
+	font-family: "Oswald";
+	font-size: 20px;
+}
+.note {
+	background: black;
+}
+.col-md-12 h1 {
+	color: #ffffff;
+	font-family: "Oswald";
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 50px;
+	
+}
+.col-md-10 h1 {
+	color: black;
+	text-transform: capitalize;
+	margin-top: 40px;
+	font-size: 30px;
+	margin-left: -2px;
+	margin-bottom: 20px;
+}
+.item {
+	background: #111;
+	width: 250px;
+	min-height: 300px;
+}
+.item img {
+	width: 250px;
+	height: 200px;
+	padding: 3px;
+}
+.item h1 {
+	color: #4f4f4f;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 35px;
+}
+.item p {
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	font-size: 14px;
+}
+.img img {
+	width: 263px;
+	height: 200px;
+}
+.col-md-3 {
+	margin-bottom: 50px;
+}
+.ending{
+	background: black;
+}
+.col-md-12 h2 {
+    font-family: "Oswald";
+	text-align: center;
+	font-size: 30px;
+	text-transform: capitalize;
+	color: black;
+	padding: 20px;
+}
+.box h5 {
+	background: #ddd;
+	text-align: center;
+	width: 100px;
+	color:black;
+	padding: 2px;
+}
+
+.w3-xxxlarge span {
+	color: tomato;
+}
+
+.end {
+	margin-bottom: 30px;
+}
+.item:hover {
+	transform: scale(1.05);
+	z-index: 1;
+	box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+}
+.img:hover {
+	transform: scale(1.10);
+	z-index: 1;
+	box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+}
+.box h5:hover{
+	transform: scale(1.10);
+	z-index: 1;
+	box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+}
